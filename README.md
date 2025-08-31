@@ -44,6 +44,6 @@ Feel free to reach out if you'd like details on model metrics, dashboards, or de
 
 ---
 
-**Your Name**  
+**Arpit Singh**  
 _Masters in Operational Research, University of Delhi_  
 [LinkedIn Profile](http://www.linkedin.com/in/arpit-singh-or)
